@@ -1,0 +1,9 @@
+.AvatarName {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 80%;
+    height: 100%;
+    flex-flow: column;
+    padding: 10px;
+}

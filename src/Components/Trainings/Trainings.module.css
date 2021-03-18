@@ -1,0 +1,14 @@
+.CarouselContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 10px;
+    padding-top: 4px;
+    overflow: auto;
+    padding-bottom: 0px;
+}
+.letterSpace{
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}

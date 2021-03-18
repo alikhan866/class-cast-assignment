@@ -1,0 +1,14 @@
+.Time{
+    font-size: 28px;
+    margin: 0px;
+    font-weight: 500;
+    margin-right: 0px;
+}
+.Name{
+    font-weight: 400;
+    font-size: 13px;
+    padding: 5px;
+}
+.Hours{
+    display: flex;
+}
